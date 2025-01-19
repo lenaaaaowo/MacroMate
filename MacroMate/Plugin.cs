@@ -3,7 +3,7 @@
 namespace MacroMate;
 
 public sealed class Plugin : IDalamudPlugin {
-    public string Name => "Macro Mate";
+    public string Name => "Macro Mate Fork";
 
     public Plugin(IDalamudPluginInterface pluginInterface) {
         // Only used when locally testing FFXIVClientStruct changes.
